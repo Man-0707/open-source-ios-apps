@@ -1108,7 +1108,23 @@
             "source": "https://github.com/aslanyanhaik/Quick-Chat",
             "screenshots": ["https://raw.githubusercontent.com/aslanyanhaik/Quick-Chat/master/screenshot.gif"],
             "date_added": "Wed Jan 06 2017",
-            "suggested_by": "@aslanyanhaik"
+            "suggested_by": "@aslanyanhaik",
+            "stars": 399,
+            "license": "mit"
+    },
+    {
+            "title": "Potter Pics",
+            "category-ids": ["social", "firebase"],
+            "tags": [
+              "swift",
+              "swift3",
+              "firebase"
+            ],
+            "description": "Harry Potter themed social network similar to Instagram.",
+            "source": "https://github.com/surayashivji/PotterPics",
+            "screenshots": ["https://github.com/surayashivji/PotterPics/blob/master/Overview.gif"],
+            "date_added": "Sun Jan 15 2017",
+            "suggested_by": "@surayashivji"
     },
     {
       "title": "Chats",
@@ -3411,6 +3427,7 @@
       "screenshots": [
         "https://raw.githubusercontent.com/KMindeguia/movies/master/Gif%20Demo/demo.gif"
       ],
+      "tags": ["afnetworking", "sdwebimage", "tmdb"],
       "description": "Movie info app",
       "source": "https://github.com/KMindeguia/movies",
       "stars": 815,
@@ -3423,6 +3440,8 @@
       "category-ids": [
         "content"
       ],
+      "tags": ["afnetworking", "sdwebimage", "gpuimage"],
+      "lang": "fra",
       "description": "Movie info app",
       "source": "https://github.com/florent37/OCiney-iOS",
       "itunes": "https://itunes.apple.com/app/id955480687",
@@ -3740,6 +3759,7 @@
       "category-ids": [
         "content"
       ],
+      "tags": ["shimmer", "nslogger", "cocoalumberjack", "tmdb"],
       "description": "Find common movies among actors",
       "source": "https://github.com/jayhickey/thatmoviewith",
       "itunes": "https://itunes.apple.com/app/that-movie-with/id892972135",
@@ -4588,7 +4608,7 @@
         "sample",
         "core-data"
       ],
-      "source": "https://github.com/cybercarlos/Swift",
+      "source": "https://github.com/SwiftCarlos/Swift",
       "stars": 2863,
       "tags": [
         "swift",
@@ -7614,14 +7634,14 @@
       "title": "Google Feud",
       "description": "Guess My Search game by Justin Hook",
       "tags": [
-        "swift"
+        "swift",
+        "archive"
       ],
       "category-ids": [
         "game"
       ],
       "license": "apache-2.0",
-      "source": "https://github.com/CTKRocks/Google-Feud-iOS",
-      "itunes": "https://itunes.apple.com/us/app/guess-my-search/id1144264060",
+      "source": "https://github.com/opensourceios/Google-Feud-iOS",
       "screenshots": [
         "http://i.imgur.com/GXvfj9u.png"
       ],
@@ -9588,7 +9608,7 @@
       "description": "Official app of recipients for https://developer.apple.com/wwdc/scholarships/",
       "license": "mit",
       "source": "https://github.com/WWDCScholars/WWDCScholars-iOS",
-      "homepage": "http://wwdcscholars.com/",
+      "homepage": "https://wwdcscholars.com/",
       "itunes": "https://itunes.apple.com/app/scholars-of-wwdc/id999731893",
       "tags": [
         "swift"
@@ -10274,7 +10294,7 @@
       ],
       "description": "Collect OpenStreetView data",
       "license": "gpl-3.0",
-      "source": " https://github.com/openstreetcam/ios",
+      "source": "https://github.com/openstreetcam/ios",
       "homepage": "http://openstreetview.org",
       "itunes": "https://itunes.apple.com/app/openstreetview/id1089548849",
       "stars": 25,
@@ -11171,6 +11191,7 @@
       "title": "Dash",
       "description": "Instant offline access to 150+ API documentation sets",
       "source": "https://github.com/Kapeli/Dash-iOS",
+      "itunes": "https://itunes.apple.com/app/dash-kapeli-free/id1176522123",
       "homepage": "https://kapeli.com/dash_ios",
       "category-ids": [
         "developer"
@@ -11309,7 +11330,8 @@
         "react-native"
       ],
       "tags": [
-        "reactnative"
+        "reactnative",
+        "tmdb"
       ],
       "screenshots": [
         "https://cloud.githubusercontent.com/assets/5106887/20606597/f176b3e2-b2ac-11e6-9163-c9e625df7748.png"
@@ -11485,6 +11507,94 @@
       "date_added": "Dec 21 2016",
       "suggested_by": "@dkhamsing",
       "stars": 277
+    },
+    {
+      "title": "Marvel Comics",
+      "source": "https://github.com/thiagolioy/marvelapp",
+      "category-ids": ["media"],
+      "tags" : ["swift", "moya", "rxswift", "dollar", "kingfisher", "quick", "nimble"],
+      "screenshots": ["https://github.com/thiagolioy/marvelapp/blob/master/assets/marvel_screens.png?raw=true"],
+      "license": "mit",
+      "date_added": "Jan 9 2017",
+      "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Pickery",
+      "description": "Works with AWS SDK to store your pictures & videos",
+      "source": "https://github.com/Performador/Pickery",
+      "itunes": "https://itunes.apple.com/app/pickery/id1164219958",
+      "category-ids": ["content"],
+      "tags": ["swift", "realm"],
+      "screenshots": [
+        "http://www.okanarikan.com/assets/Apps/Pickery/Screen1.jpg",
+        "http://www.okanarikan.com/assets/Apps/Pickery/Screen2.jpg",
+        "http://www.okanarikan.com/assets/Apps/Pickery/Screen3.jpg"
+      ],
+      "license": "mit",
+      "date_added": "Jan 10 2017",
+      "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Loose Leaf",
+      "description": "Intuitive note taking app: import & annotate PDFs, manipulate imported photos with intuitive gestures",
+      "source": "https://github.com/adamwulf/loose-leaf",
+      "itunes": "https://itunes.apple.com/app/loose-leaf/id625659452",
+      "category-ids": ["text", "media"],
+      "tags": ["ipad", "pdf", "apple pencil"],
+      "screenshots": ["https://github.com/adamwulf/loose-leaf/blob/master/example-gif/collapse-stack.gif?raw=true"],
+      "license": "mit",
+      "date_added": "Jan 11 2017",
+      "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Standard Notes",
+      "description": "Standard notes app with an un-standard focus on longevity, portability & privacy",
+      "source": "https://github.com/standardnotes/iOS",
+      "itunes": "https://itunes.apple.com/app/standard-notes/id1191215138",
+      "category-ids": ["text"],
+      "tags": ["swift", "alamofire", "swiftyjson"],
+      "screenshots": [
+        "http://a3.mzstatic.com/us/r30/Purple122/v4/ca/3d/84/ca3d84d6-201b-578b-8dc1-d0f9cf4495a0/screen696x696.jpeg",
+        "http://a2.mzstatic.com/us/r30/Purple122/v4/b5/91/d1/b591d15d-5b3a-70a0-b8d3-e12e681e4113/screen696x696.jpeg",
+        "http://a5.mzstatic.com/us/r30/Purple122/v4/8d/c0/44/8dc0445c-773b-22a5-afca-0695d29ec10c/screen696x696.jpeg",
+        "http://a3.mzstatic.com/us/r30/Purple122/v4/8e/9e/2e/8e9e2e10-0184-e600-03a2-aaf24d84195b/screen696x696.jpeg"
+      ],
+      "license": "other",
+      "date_added": "Jan 18 2017",
+      "suggested_by": "@dkhamsing",
+      "stars": 122
+    },
+    {
+       "title": "Popular Movies",
+       "category-ids": [
+         "content", "realm"
+       ],
+       "tags": [
+         "swift", "realm", "alamofire", "tmdb"
+       ],
+       "screenshots": [
+         "https://github.com/vanyaland/Popular-Movies/blob/master/res/iOS-movie-detail.png",
+         "https://github.com/vanyaland/Popular-Movies/blob/master/res/iOS-movies-list.png"
+       ],
+       "description": "Cross-platform app for discovering recent & popular movies",
+       "source": "https://github.com/vanyaland/Popular-Movies",
+       "stars": 0,
+       "license": "mit",
+       "date_added": "Jan 19 2017",
+       "suggested_by": "@vanyaland"
+    },
+    {
+      "title": "MeetupOrganizer",
+      "source": "https://github.com/ayunav/MeetupOrganizer",
+      "description": "Extends the Meetup app's functionality",
+      "category-ids": ["conference"],
+      "tags": [
+        "swift", "alamofire", "oauthswift"
+      ],
+      "screenshots": ["https://github.com/ayunav/MeetupOrganizer/blob/master/MeetupOrganizerAppDemo.gif"],
+      "license": "other",
+      "date_added": "Jan 20 2017",
+      "suggested_by": "@dkhamsing"
     }
   ]
 }

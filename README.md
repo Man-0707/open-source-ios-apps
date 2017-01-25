@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `watchOS` and `tvOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-606-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-January  6, 2017-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-613-green.svg) [![](https://img.shields.io/badge/Twitter-@opensourceios-blue.svg)](https://twitter.com/opensourceios) ![](https://img.shields.io/badge/Updated-January 24, 2017-lightgrey.svg)
 
 Jump to
 
@@ -682,7 +682,7 @@ Click ► to show more details
   </details>
 </details> 
 - Quick Chat: Real time chat app  
-<details><summary>`swift` `swift3` `firebase` </summary>  https://github.com/aslanyanhaik/Quick-Chat<br>  Added January  4, 2017
+<details><summary>`swift` `swift3` `firebase` 🔥🔥</summary>  https://github.com/aslanyanhaik/Quick-Chat<br>  Added January  6, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Quick Chat image 1' src='https://raw.githubusercontent.com/aslanyanhaik/Quick-Chat/master/screenshot.gif'> 
 </div>
   </details>
@@ -777,6 +777,12 @@ Click ► to show more details
 - F8 2016: Official F8 app  
 <details><summary>`reactnative` 🔥🔥🔥🔥🔥</summary>  https://github.com/fbsamples/f8app<br>  Added April 14, 2016<br>  License: `other`
 <div><img height='300' alt='F8 2016 image 1' src='https://github.com/fbsamples/f8app/raw/master/.github/screenshot-app@2x.png'> 
+</div>
+  </details>
+</details> 
+- MeetupOrganizer: Extends the Meetup app's functionality  
+<details><summary>`swift` `alamofire` `oauthswift` </summary>  https://github.com/ayunav/MeetupOrganizer<br>  Added January 20, 2017<br>  License: `other`
+<div><img height='300' alt='MeetupOrganizer image 1' src='https://github.com/ayunav/MeetupOrganizer/blob/master/MeetupOrganizerAppDemo.gif'> 
 </div>
   </details>
 </details> 
@@ -893,7 +899,7 @@ Click ► to show more details
 </div>
   </details>
 </details> 
-- Dash: Instant offline access to 150+ API documentation sets  
+- Dash: Instant offline access to 150+ API documentation sets [` App Store`](https://itunes.apple.com/app/dash-kapeli-free/id1176522123)  
 <details><summary>`iphone` `ipad` `kissxml` `dznemptydataset` `dtbonjour` `samkeychain` 🔥🔥🔥🔥🔥</summary>  https://github.com/Kapeli/Dash-iOS<br>  https://kapeli.com/dash_ios<br>  Added November 14, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
 <div><img height='300' alt='Dash image 1' src='https://kapeli.com/img/dash_ios-s1.png'> <img height='300' alt='Dash image 2' src='https://kapeli.com/img/dash_ios-s2.png'> 
 </div>
@@ -1510,12 +1516,6 @@ Click ► to show more details
 </div>
   </details>
 </details> 
-- Google Feud: Guess My Search game by Justin Hook [` App Store`](https://itunes.apple.com/us/app/guess-my-search/id1144264060)  
-<details><summary>`swift` </summary>  https://github.com/CTKRocks/Google-Feud-iOS<br>  Added August 23, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)
-<div><img height='300' alt='Google Feud image 1' src='http://i.imgur.com/GXvfj9u.png'> 
-</div>
-  </details>
-</details> 
 - Gorillas: Port of the popular old QBasic game with spunk [` App Store`](https://itunes.apple.com/app/gorillas/id302275459)  
 <details><summary>`iphone` 🔥🔥</summary>  https://github.com/Lyndir/Gorillas<br>  http://gorillas.lyndir.com/<br>  Added March  5, 2016<br>  License: `other`
 <div><img height='300' alt='Gorillas image 1' src='http://a5.mzstatic.com/us/r30/Purple/v4/d6/b0/0b/d6b00be6-a152-e345-d897-311826fb8c7a/screen696x696.jpeg'> <img height='300' alt='Gorillas image 2' src='http://a1.mzstatic.com/us/r30/Purple4/v4/b2/ae/fd/b2aefdfc-0404-10c3-01f7-7c68b187d4ca/screen696x696.jpeg'> <img height='300' alt='Gorillas image 3' src='http://a5.mzstatic.com/us/r30/Purple6/v4/ee/f0/48/eef048df-adcb-a352-cdb5-adfe31e2079e/screen696x696.jpeg'> <img height='300' alt='Gorillas image 4' src='http://a2.mzstatic.com/us/r30/Purple6/v4/2b/7b/4f/2b7b4f5b-082f-6973-c55e-a732c01c3a19/screen696x696.jpeg'> 
@@ -2003,7 +2003,7 @@ Click ► to show more details
   </details>
 </details> 
 - OpenStreetView: Collect OpenStreetView data [` App Store`](https://itunes.apple.com/app/openstreetview/id1089548849)  
-<details><summary>`objc` </summary>  https://github.com/openstreetview/ios<br>  http://openstreetview.org<br>  Added August 21, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
+<details><summary>`objc` </summary>  https://github.com/openstreetcam/ios<br>  http://openstreetview.org<br>  Added August 21, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
 <div><img height='300' alt='OpenStreetView image 1' src='http://a5.mzstatic.com/us/r30/Purple30/v4/b5/9f/0f/b59f0f32-eec9-7612-ad5f-4a545561c2cf/screen696x696.jpeg'> 
 </div>
   </details>
@@ -2164,6 +2164,18 @@ Image, video, audio, reading — [back to top](#readme)
 - Longboxed: Track the releases of your favorite comics [` App Store`](https://itunes.apple.com/app/longboxed-comic-tracker/id965045339)  
 <details><summary>`objc` </summary>  https://github.com/jayhickey/Longboxed-iOS<br>  Added June 20, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Longboxed image 1' src='http://a2.mzstatic.com/us/r30/Purple5/v4/63/78/76/637876d8-da2f-a781-3989-3676566703bb/screen696x696.jpeg'> <img height='300' alt='Longboxed image 2' src='http://a2.mzstatic.com/us/r30/Purple3/v4/d8/55/ba/d855bade-a829-f3c3-44a0-6e0bbc015355/screen696x696.jpeg'> <img height='300' alt='Longboxed image 3' src='http://a2.mzstatic.com/us/r30/Purple1/v4/5d/1b/b3/5d1bb332-047f-3767-b9ec-52e80311a303/screen696x696.jpeg'> <img height='300' alt='Longboxed image 4' src='http://a3.mzstatic.com/us/r30/Purple5/v4/7c/cb/ab/7ccbab7b-104d-a08e-6a13-a384d8758558/screen696x696.jpeg'> <img height='300' alt='Longboxed image 5' src='http://a1.mzstatic.com/us/r30/Purple5/v4/63/54/a7/6354a7f6-891f-da89-b21b-1b4ab81f59cb/screen696x696.jpeg'> 
+</div>
+  </details>
+</details> 
+- Loose Leaf: Intuitive note taking app: import & annotate PDFs, manipulate imported photos with intuitive gestures [` App Store`](https://itunes.apple.com/app/loose-leaf/id625659452)  
+<details><summary>`ipad` `pdf` `apple pencil` </summary>  https://github.com/adamwulf/loose-leaf<br>  Added January 11, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Loose Leaf image 1' src='https://github.com/adamwulf/loose-leaf/blob/master/example-gif/collapse-stack.gif?raw=true'> 
+</div>
+  </details>
+</details> 
+- Marvel Comics  
+<details><summary>`swift` `moya` `rxswift` `dollar` `kingfisher` `quick` `nimble` </summary>  https://github.com/thiagolioy/marvelapp<br>  Added January  9, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Marvel Comics image 1' src='https://github.com/thiagolioy/marvelapp/blob/master/assets/marvel_screens.png?raw=true'> 
 </div>
   </details>
 </details> 
@@ -2360,8 +2372,8 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 </details> 
 - Homepok: Catalog of Ukrainian vehicle plates [` App Store`](https://itunes.apple.com/app/id1105827929)  
-<details><summary>`swift` 🇷🇺 </summary>  https://github.com/iAlexander/Homepok<br>  Added November 27, 2016
-<div><img height='300' alt='Homepok image 1' src='http://a5.mzstatic.com/us/r30/Purple71/v4/d8/44/33/d844330e-cd1a-6612-f60a-36996fdcf4ce/screen696x696.jpeg'> <img height='300' alt='Homepok image 2' src='http://a2.mzstatic.com/us/r30/Purple71/v4/e6/80/41/e6804103-994c-26fd-9a57-af98e6dc4f16/screen696x696.jpeg'> <img height='300' alt='Homepok image 3' src='http://a1.mzstatic.com/us/r30/Purple71/v4/43/78/4c/43784ca8-f287-4666-38e6-5d33cc724695/screen696x696.jpeg'> <img height='300' alt='Homepok image 4' src='http://a2.mzstatic.com/us/r30/Purple71/v4/93/bb/5b/93bb5bdd-f09e-4d3f-c5d3-5eab08b7775e/screen696x696.jpeg'> 
+<details><summary>`swift` 🇷🇺 </summary>  https://github.com/iAlexander/Homepok<br>  Added November 27, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Homepok image 1' src='https://raw.githubusercontent.com/iAlexander/Homepok/master/Screenshots.jpg'> 
 </div>
   </details>
 </details> 
@@ -2390,7 +2402,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 </details> 
 - movieapp: Discover movies & tv shows  
-<details><summary>`reactnative` 🔥🔥</summary>  https://github.com/JuneDomingo/movieapp<br>  Added November 28, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`reactnative` `tmdb` 🔥🔥</summary>  https://github.com/JuneDomingo/movieapp<br>  Added November 28, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='movieapp image 1' src='https://cloud.githubusercontent.com/assets/5106887/20606597/f176b3e2-b2ac-11e6-9163-c9e625df7748.png'> 
 </div>
   </details>
@@ -2402,13 +2414,13 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 </details> 
 - movies: Movie info app  
-<details><summary>`objc` 🔥🔥🔥</summary>  https://github.com/KMindeguia/movies<br>  Added February 20, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`afnetworking` `sdwebimage` `tmdb` 🔥🔥🔥</summary>  https://github.com/KMindeguia/movies<br>  Added February 20, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='movies image 1' src='https://raw.githubusercontent.com/KMindeguia/movies/master/Gif%20Demo/demo.gif'> 
 </div>
   </details>
 </details> 
 - OCiney: Movie info app [` App Store`](https://itunes.apple.com/app/id955480687)  
-<details><summary>`objc` 🔥🔥</summary>  https://github.com/florent37/OCiney-iOS<br>  Added March  3, 2015<br>  License: `other`
+<details><summary>`afnetworking` `sdwebimage` `gpuimage` 🇫🇷 🔥🔥</summary>  https://github.com/florent37/OCiney-iOS<br>  Added March  3, 2015<br>  License: `other`
 <div><img height='300' alt='OCiney image 1' src='http://a1.mzstatic.com/us/r30/Purple1/v4/7d/dc/67/7ddc6778-b5f2-acea-e384-cc5225334fca/screen696x696.jpeg'> <img height='300' alt='OCiney image 2' src='http://a4.mzstatic.com/us/r30/Purple3/v4/0a/c0/0a/0ac00a3c-90e5-26c6-a007-a2b8acfe5c96/screen696x696.jpeg'> <img height='300' alt='OCiney image 3' src='http://a3.mzstatic.com/us/r30/Purple3/v4/08/ed/f3/08edf3e4-f963-1ef9-fef4-749a5df5c543/screen696x696.jpeg'> <img height='300' alt='OCiney image 4' src='http://a2.mzstatic.com/us/r30/Purple3/v4/ce/c2/8b/cec28bd9-b317-71c1-cf14-e5a985543991/screen696x696.jpeg'> 
 </div>
   </details>
@@ -2455,9 +2467,21 @@ Image, video, audio, reading — [back to top](#readme)
 </div>
   </details>
 </details> 
+- Pickery: Works with AWS SDK to store your pictures & videos [` App Store`](https://itunes.apple.com/app/pickery/id1164219958)  
+<details><summary>`swift` `realm` </summary>  https://github.com/Performador/Pickery<br>  Added January 10, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Pickery image 1' src='http://www.okanarikan.com/assets/Apps/Pickery/Screen1.jpg'> <img height='300' alt='Pickery image 2' src='http://www.okanarikan.com/assets/Apps/Pickery/Screen2.jpg'> <img height='300' alt='Pickery image 3' src='http://www.okanarikan.com/assets/Apps/Pickery/Screen3.jpg'> 
+</div>
+  </details>
+</details> 
 - PopcornTime: PopcornTime movie app  
 <details><summary>`swift` 🔥</summary>  https://github.com/danylokostyshyn/popcorntime-ios<br>  Added May 20, 2015<br>  License: `other`
 <div><img height='300' alt='PopcornTime image 1' src='https://camo.githubusercontent.com/c50d34929cbeaa6ca7c30773410fbd74de95470f/68747470733a2f2f7261772e6769746875622e636f6d2f64616e796c6f6b6f7374797368796e2f706f70636f726e74696d652d696f732f6d61737465722f53637265656e73686f74732f312e706e67'> <img height='300' alt='PopcornTime image 2' src='https://camo.githubusercontent.com/acbc97860741cc35d9b99f785dd00410c5006773/68747470733a2f2f7261772e6769746875622e636f6d2f64616e796c6f6b6f7374797368796e2f706f70636f726e74696d652d696f732f6d61737465722f53637265656e73686f74732f322e706e67'> <img height='300' alt='PopcornTime image 3' src='https://camo.githubusercontent.com/daa316738f69b74d328d5172fb0beae9fd8aebbb/68747470733a2f2f7261772e6769746875622e636f6d2f64616e796c6f6b6f7374797368796e2f706f70636f726e74696d652d696f732f6d61737465722f53637265656e73686f74732f332e706e67'> 
+</div>
+  </details>
+</details> 
+- Popular Movies: Cross-platform app for discovering recent & popular movies  
+<details><summary>`swift` `realm` `alamofire` `tmdb` </summary>  https://github.com/vanyaland/Popular-Movies<br>  Added January 19, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Popular Movies image 1' src='https://github.com/vanyaland/Popular-Movies/blob/master/res/iOS-movie-detail.png'> <img height='300' alt='Popular Movies image 2' src='https://github.com/vanyaland/Popular-Movies/blob/master/res/iOS-movies-list.png'> 
 </div>
   </details>
 </details> 
@@ -2510,7 +2534,7 @@ Image, video, audio, reading — [back to top](#readme)
   </details>
 </details> 
 - That Movie With: Find common movies among actors [` App Store`](https://itunes.apple.com/app/that-movie-with/id892972135)  
-<details><summary>`objc` </summary>  https://github.com/jayhickey/thatmoviewith<br>  Added June 27, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`shimmer` `nslogger` `cocoalumberjack` `tmdb` </summary>  https://github.com/jayhickey/thatmoviewith<br>  Added June 27, 2015<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='That Movie With image 1' src='http://a1.mzstatic.com/us/r30/Purple/v4/ff/00/78/ff007811-7989-9a06-d917-ae2f7532177a/screen696x696.jpeg'> <img height='300' alt='That Movie With image 2' src='http://a4.mzstatic.com/us/r30/Purple4/v4/67/7b/d9/677bd916-def9-74c9-a628-fb35197f7d66/screen696x696.jpeg'> <img height='300' alt='That Movie With image 3' src='http://a5.mzstatic.com/us/r30/Purple/v4/e8/9c/42/e89c421c-2188-aaf4-bf1d-8decb208eda0/screen696x696.jpeg'> <img height='300' alt='That Movie With image 4' src='http://a3.mzstatic.com/us/r30/Purple4/v4/a7/cd/22/a7cd228b-f17d-7e64-6f0b-2ae55dd6be6c/screen696x696.jpeg'> 
 </div>
   </details>
@@ -2829,7 +2853,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - Scholars of WWDC: Official app of recipients for https://developer.apple.com/wwdc/scholarships/ [` App Store`](https://itunes.apple.com/app/scholars-of-wwdc/id999731893)  
-<details><summary>`swift` </summary>  https://github.com/WWDCScholars/WWDCScholars-iOS<br>  http://wwdcscholars.com/<br>  Added July 12, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`swift` </summary>  https://github.com/WWDCScholars/WWDCScholars-iOS<br>  https://wwdcscholars.com/<br>  Added July 12, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Scholars of WWDC image 1' src='http://a1.mzstatic.com/us/r30/Purple60/v4/ab/92/bb/ab92bbe9-6540-ff6b-836d-9fd737221466/screen696x696.jpeg'> 
 </div>
   </details>
@@ -3135,7 +3159,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - Reusable Code  
-<details><summary>`swift` `airdrop` `avfoundation` `coreanimation` `coreimage` 🔥🔥🔥🔥🔥</summary>  https://github.com/cybercarlos/Swift<br>  Added April 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`swift` `airdrop` `avfoundation` `coreanimation` `coreimage` 🔥🔥🔥🔥🔥</summary>  https://github.com/SwiftCarlos/Swift<br>  Added April 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
 - RKGist: GitHub Gists  
@@ -3307,6 +3331,12 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </div>
   </details>
 </details> 
+- Potter Pics: Harry Potter themed social network similar to Instagram.  
+<details><summary>`swift` `swift3` `firebase` </summary>  https://github.com/surayashivji/PotterPics<br>  Added January 15, 2017
+<div><img height='300' alt='Potter Pics image 1' src='https://github.com/surayashivji/PotterPics/blob/master/Overview.gif'> 
+</div>
+  </details>
+</details> 
 - StreetMusicMap: Is a collaborative global community that connects street musicians, fans & videomakers [` App Store`](https://itunes.apple.com/app/street-music-map/id980068735)  
 <details><summary>`objc` </summary>  https://github.com/henriquevelloso/StreetMusicMap<br>  Added April 20, 2016<br>  License: `other`
 <div><img height='300' alt='StreetMusicMap image 1' src='http://a4.mzstatic.com/us/r30/Purple5/v4/a6/87/38/a68738e5-ed64-b538-cd38-42df82d5339f/screen696x696.jpeg'> <img height='300' alt='StreetMusicMap image 2' src='http://a1.mzstatic.com/us/r30/Purple5/v4/a3/e0/05/a3e0055b-b4fc-dc75-4276-e4e0bba4ad7b/screen696x696.jpeg'> <img height='300' alt='StreetMusicMap image 3' src='http://a3.mzstatic.com/us/r30/Purple7/v4/81/7d/f4/817df403-8bb2-1d31-8046-b3e6f0509e12/screen696x696.jpeg'> <img height='300' alt='StreetMusicMap image 4' src='http://a3.mzstatic.com/us/r30/Purple5/v4/bd/30/db/bd30dbd9-0ef6-f21a-8822-c0dd37b6f014/screen696x696.jpeg'> 
@@ -3397,6 +3427,12 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </div>
   </details>
 </details> 
+- Loose Leaf: Intuitive note taking app: import & annotate PDFs, manipulate imported photos with intuitive gestures [` App Store`](https://itunes.apple.com/app/loose-leaf/id625659452)  
+<details><summary>`ipad` `pdf` `apple pencil` </summary>  https://github.com/adamwulf/loose-leaf<br>  Added January 11, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Loose Leaf image 1' src='https://github.com/adamwulf/loose-leaf/blob/master/example-gif/collapse-stack.gif?raw=true'> 
+</div>
+  </details>
+</details> 
 - Onions: Cloud encrypted notes [` App Store`](https://itunes.apple.com/app/onions/id687296481)  
 <details><summary>`objc` </summary>  https://github.com/onionsapp/Onions-iOS<br>  Added January 27, 2015<br>  License: `other`
 <div><img height='300' alt='Onions image 1' src='http://a2.mzstatic.com/us/r30/Purple/v4/d0/08/29/d00829d7-e34f-69e7-d21b-bfd3f48ae8fc/screen696x696.jpeg'> <img height='300' alt='Onions image 2' src='http://a3.mzstatic.com/us/r30/Purple4/v4/9d/18/f7/9d18f743-51ef-adfa-5720-ce52057f2232/screen696x696.jpeg'> <img height='300' alt='Onions image 3' src='http://a2.mzstatic.com/us/r30/Purple2/v4/85/63/c3/8563c3ce-2e2a-0a6f-472d-68b60a274841/screen696x696.jpeg'> <img height='300' alt='Onions image 4' src='http://a4.mzstatic.com/us/r30/Purple/v4/e2/43/a1/e243a12f-6391-f347-c684-22e5236f0d79/screen696x696.jpeg'> 
@@ -3418,6 +3454,12 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 - Simplenote: Keep notes, lists, ideas & more (sync in the cloud) — includes sharing notes, collaboration. [` App Store`](https://itunes.apple.com/app/simplenote/id289429962)  
 <details><summary>`1password` `fabric` `crashlytics` 🔥🔥🔥🔥</summary>  https://github.com/automattic/simplenote-ios<br>  https://simplenote.com/<br>  Added August 11, 2016<br>  License: [`gpl-2.0`](http://choosealicense.com/licenses/gpl-2.0/)
 <div><img height='300' alt='Simplenote image 1' src='https://cdn.pastemagazine.com/www/articles/simplenoteapp.jpg'> 
+</div>
+  </details>
+</details> 
+- Standard Notes: Standard notes app with an un-standard focus on longevity, portability & privacy [` App Store`](https://itunes.apple.com/app/standard-notes/id1191215138)  
+<details><summary>`swift` `alamofire` `swiftyjson` 🔥</summary>  https://github.com/standardnotes/iOS<br>  Added January 18, 2017<br>  License: `other`
+<div><img height='300' alt='Standard Notes image 1' src='http://a3.mzstatic.com/us/r30/Purple122/v4/ca/3d/84/ca3d84d6-201b-578b-8dc1-d0f9cf4495a0/screen696x696.jpeg'> <img height='300' alt='Standard Notes image 2' src='http://a2.mzstatic.com/us/r30/Purple122/v4/b5/91/d1/b591d15d-5b3a-70a0-b8d3-e12e681e4113/screen696x696.jpeg'> <img height='300' alt='Standard Notes image 3' src='http://a5.mzstatic.com/us/r30/Purple122/v4/8d/c0/44/8dc0445c-773b-22a5-afca-0695d29ec10c/screen696x696.jpeg'> <img height='300' alt='Standard Notes image 4' src='http://a3.mzstatic.com/us/r30/Purple122/v4/8e/9e/2e/8e9e2e10-0184-e600-03a2-aaf24d84195b/screen696x696.jpeg'> 
 </div>
   </details>
 </details> 
@@ -3737,7 +3779,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - Reusable Code  
-<details><summary>`swift` `airdrop` `avfoundation` `coreanimation` `coreimage` 🔥🔥🔥🔥🔥</summary>  https://github.com/cybercarlos/Swift<br>  Added April 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`swift` `airdrop` `avfoundation` `coreanimation` `coreimage` 🔥🔥🔥🔥🔥</summary>  https://github.com/SwiftCarlos/Swift<br>  Added April 22, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
   </details>
 </details> 
 - Tagger: Increase the number of Instagram or Flickr followers & likes on your pictures  
@@ -3793,8 +3835,14 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 </div>
   </details>
 </details> 
+- Potter Pics: Harry Potter themed social network similar to Instagram.  
+<details><summary>`swift` `swift3` `firebase` </summary>  https://github.com/surayashivji/PotterPics<br>  Added January 15, 2017
+<div><img height='300' alt='Potter Pics image 1' src='https://github.com/surayashivji/PotterPics/blob/master/Overview.gif'> 
+</div>
+  </details>
+</details> 
 - Quick Chat: Real time chat app  
-<details><summary>`swift` `swift3` `firebase` </summary>  https://github.com/aslanyanhaik/Quick-Chat<br>  Added January  4, 2017
+<details><summary>`swift` `swift3` `firebase` 🔥🔥</summary>  https://github.com/aslanyanhaik/Quick-Chat<br>  Added January  6, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Quick Chat image 1' src='https://raw.githubusercontent.com/aslanyanhaik/Quick-Chat/master/screenshot.gif'> 
 </div>
   </details>
@@ -4007,7 +4055,7 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   </details>
 </details> 
 - movieapp: Discover movies & tv shows  
-<details><summary>`reactnative` 🔥🔥</summary>  https://github.com/JuneDomingo/movieapp<br>  Added November 28, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<details><summary>`reactnative` `tmdb` 🔥🔥</summary>  https://github.com/JuneDomingo/movieapp<br>  Added November 28, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='movieapp image 1' src='https://cloud.githubusercontent.com/assets/5106887/20606597/f176b3e2-b2ac-11e6-9163-c9e625df7748.png'> 
 </div>
   </details>
@@ -4150,6 +4198,12 @@ Mostly using http://giphy.com/ — [back to top](#readme)
 - Obědář: Shows daily menu of close restaurants to Czech Technical University  
 <details><summary>`swift` </summary>  https://github.com/syky27/lunch_guy-ios<br>  Added June 16, 2016<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
 <div><img height='300' alt='Obědář image 1' src='https://raw.githubusercontent.com/syky27/lunch_guy-ios/dev/screenshots/2.png'> <img height='300' alt='Obědář image 2' src='https://raw.githubusercontent.com/syky27/lunch_guy-ios/dev/screenshots/1.png'> 
+</div>
+  </details>
+</details> 
+- Popular Movies: Cross-platform app for discovering recent & popular movies  
+<details><summary>`swift` `realm` `alamofire` `tmdb` </summary>  https://github.com/vanyaland/Popular-Movies<br>  Added January 19, 2017<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<div><img height='300' alt='Popular Movies image 1' src='https://github.com/vanyaland/Popular-Movies/blob/master/res/iOS-movie-detail.png'> <img height='300' alt='Popular Movies image 2' src='https://github.com/vanyaland/Popular-Movies/blob/master/res/iOS-movies-list.png'> 
 </div>
   </details>
 </details> 
